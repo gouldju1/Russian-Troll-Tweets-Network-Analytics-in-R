@@ -18,9 +18,9 @@ The following packages are required to use the K-Means Clustering code: `RCurl`,
 ### Interpreting the Results
 
 1. News Sources
-··1. Left-leaning troll accounts mention Left-leaning news sources more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising their ideology, instead of bashing the opposite side's beliefs.
-··2. Right-leaning troll accounts mention Left-leaning news sources the same as Right-leaning sources. One implication we can draw from this is that the Rightt-leaning troll accounts "troll" voters by equally praising their ideology and bashing the opposite side's beliefs.
+  1. Left-leaning troll accounts mention Left-leaning news sources more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising their ideology, instead of bashing the opposite side's beliefs.
+  2. Right-leaning troll accounts mention Left-leaning news sources the same as Right-leaning sources. One implication we can draw from this is that the Rightt-leaning troll accounts "troll" voters by equally praising their ideology and bashing the opposite side's beliefs.
 
 2. US Senators and Government Officials 
-··1. Left-leaning troll accounts, unlike with the news sources, mention Democratic Senators/government officials more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising officials who carry out their agenda, instead of bashing the opposite side's beliefs.
-··2. Right-leaning troll accounts, similar to their approach with the news sources, mention Republican Senators/government officials more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising officials who carry out their agenda, instead of bashing the opposite side's beliefs.
+  1. Left-leaning troll accounts, unlike with the news sources, mention Democratic Senators/government officials more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising officials who carry out their agenda, instead of bashing the opposite side's beliefs.
+  2. Right-leaning troll accounts, similar to their approach with the news sources, mention Republican Senators/government officials more often than Right-leaning sources. One implication we can draw from this is that the Left-leaning troll accounts "troll" voters more by praising officials who carry out their agenda, instead of bashing the opposite side's beliefs.
